@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="16px" height="14px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
+    <mask fill="white" id="Clip3291">
+      <path d="M 6.6 5  L 8 2.3  L 9.4 5.1  L 9.6 5.6  L 10.1 5.699999999999999  L 13.2 6.1  L 11 8.2  L 10.6 8.6  L 10.7 9.1  L 11.2 12.2  L 8.399999999999999 10.799999999999999  L 8 10.5  L 7.5 10.7  L 4.7 12.1  L 5.2 9  L 5.3 8.5  L 5 8.2  L 2.8 6  L 5.9 5.6  L 6.4 5.5  L 6.6 5  Z M 10.299999999999999 4.6000000000000005  L 8 0  L 5.7 4.6  L 0.6 5.3  L 4.3 8.9  L 3.5 14  L 8 11.6  L 12.6 14  L 11.7 8.9  L 15.399999999999999 5.300000000000001  L 10.299999999999999 4.6000000000000005  Z " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g transform="matrix(1 0 0 1 0 -1 )">
+    <path d="M 6.6 5  L 8 2.3  L 9.4 5.1  L 9.6 5.6  L 10.1 5.699999999999999  L 13.2 6.1  L 11 8.2  L 10.6 8.6  L 10.7 9.1  L 11.2 12.2  L 8.399999999999999 10.799999999999999  L 8 10.5  L 7.5 10.7  L 4.7 12.1  L 5.2 9  L 5.3 8.5  L 5 8.2  L 2.8 6  L 5.9 5.6  L 6.4 5.5  L 6.6 5  Z M 10.299999999999999 4.6000000000000005  L 8 0  L 5.7 4.6  L 0.6 5.3  L 4.3 8.9  L 3.5 14  L 8 11.6  L 12.6 14  L 11.7 8.9  L 15.399999999999999 5.300000000000001  L 10.299999999999999 4.6000000000000005  Z " fill-rule="nonzero" fill="rgba(0, 0, 0, 1)" stroke="none" transform="matrix(1 0 0 1 0 1 )" class="fill" />
+    <path d="M 6.6 5  L 8 2.3  L 9.4 5.1  L 9.6 5.6  L 10.1 5.699999999999999  L 13.2 6.1  L 11 8.2  L 10.6 8.6  L 10.7 9.1  L 11.2 12.2  L 8.399999999999999 10.799999999999999  L 8 10.5  L 7.5 10.7  L 4.7 12.1  L 5.2 9  L 5.3 8.5  L 5 8.2  L 2.8 6  L 5.9 5.6  L 6.4 5.5  L 6.6 5  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" transform="matrix(1 0 0 1 0 1 )" class="stroke" mask="url(#Clip3291)" />
+    <path d="M 10.299999999999999 4.6000000000000005  L 8 0  L 5.7 4.6  L 0.6 5.3  L 4.3 8.9  L 3.5 14  L 8 11.6  L 12.6 14  L 11.7 8.9  L 15.399999999999999 5.300000000000001  L 10.299999999999999 4.6000000000000005  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" transform="matrix(1 0 0 1 0 1 )" class="stroke" mask="url(#Clip3291)" />
+  </g>
+</svg>

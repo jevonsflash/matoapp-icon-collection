@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="28px" height="28px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
+    <mask fill="white" id="Clip3396">
+      <path d="M 2 2  L 6 2  L 6 6  L 2 6  L 2 2  Z M 8 8  L 8 0  L 0 0  L 0 8  L 8 8  Z M 12 2  L 16 2  L 16 6  L 12 6  L 12 2  Z M 18 8  L 18 0  L 10 0  L 10 8  L 18 8  Z M 22 2  L 26 2  L 26 6  L 22 6  L 22 2  Z M 28 8  L 28 0  L 20 0  L 20 8  L 28 8  Z M 2 12  L 6 12  L 6 16  L 2 16  L 2 12  Z M 8 18  L 8 10  L 0 10  L 0 18  L 8 18  Z M 12 12  L 16 12  L 16 16  L 12 16  L 12 12  Z M 18 18  L 18 10  L 10 10  L 10 18  L 18 18  Z M 22 12  L 26 12  L 26 16  L 22 16  L 22 12  Z M 28 18  L 28 10  L 20 10  L 20 18  L 28 18  Z M 2 22  L 6 22  L 6 26  L 2 26  L 2 22  Z M 8 28  L 8 20  L 0 20  L 0 28  L 8 28  Z M 12 22  L 16 22  L 16 26  L 12 26  L 12 22  Z M 18 28  L 18 20  L 10 20  L 10 28  L 18 28  Z M 22 22  L 26 22  L 26 26  L 22 26  L 22 22  Z M 28 28  L 28 20  L 20 20  L 20 28  L 28 28  Z " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g>
+    <path d="M 2 2  L 6 2  L 6 6  L 2 6  L 2 2  Z M 8 8  L 8 0  L 0 0  L 0 8  L 8 8  Z M 12 2  L 16 2  L 16 6  L 12 6  L 12 2  Z M 18 8  L 18 0  L 10 0  L 10 8  L 18 8  Z M 22 2  L 26 2  L 26 6  L 22 6  L 22 2  Z M 28 8  L 28 0  L 20 0  L 20 8  L 28 8  Z M 2 12  L 6 12  L 6 16  L 2 16  L 2 12  Z M 8 18  L 8 10  L 0 10  L 0 18  L 8 18  Z M 12 12  L 16 12  L 16 16  L 12 16  L 12 12  Z M 18 18  L 18 10  L 10 10  L 10 18  L 18 18  Z M 22 12  L 26 12  L 26 16  L 22 16  L 22 12  Z M 28 18  L 28 10  L 20 10  L 20 18  L 28 18  Z M 2 22  L 6 22  L 6 26  L 2 26  L 2 22  Z M 8 28  L 8 20  L 0 20  L 0 28  L 8 28  Z M 12 22  L 16 22  L 16 26  L 12 26  L 12 22  Z M 18 28  L 18 20  L 10 20  L 10 28  L 18 28  Z M 22 22  L 26 22  L 26 26  L 22 26  L 22 22  Z M 28 28  L 28 20  L 20 20  L 20 28  L 28 28  Z " fill-rule="nonzero" fill="rgba(0, 0, 0, 1)" stroke="none" class="fill" />
+    <path d="M 2 2  L 6 2  L 6 6  L 2 6  L 2 2  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" class="stroke" mask="url(#Clip3396)" />
+    <path d="M 8 8  L 8 0  L 0 0  L 0 8  L 8 8  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" class="stroke" mask="url(#Clip3396)" />
+    <path d="M 12 2  L 16 2  L 16 6  L 12 6  L 12 2  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" class="stroke" mask="url(#Clip3396)" />
+    <path d="M 18 8  L 18 0  L 10 0  L 10 8  L 18 8  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" class="stroke" mask="url(#Clip3396)" />
+    <path d="M 22 2  L 26 2  L 26 6  L 22 6  L 22 2  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" class="stroke" mask="url(#Clip3396)" />
+    <path d="M 28 8  L 28 0  L 20 0  L 20 8  L 28 8  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" class="stroke" mask="url(#Clip3396)" />
+    <path d="M 2 12  L 6 12  L 6 16  L 2 16  L 2 12  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" class="stroke" mask="url(#Clip3396)" />
+    <path d="M 8 18  L 8 10  L 0 10  L 0 18  L 8 18  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" class="stroke" mask="url(#Clip3396)" />
+    <path d="M 12 12  L 16 12  L 16 16  L 12 16  L 12 12  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" class="stroke" mask="url(#Clip3396)" />
+    <path d="M 18 18  L 18 10  L 10 10  L 10 18  L 18 18  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" class="stroke" mask="url(#Clip3396)" />
+    <path d="M 22 12  L 26 12  L 26 16  L 22 16  L 22 12  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" class="stroke" mask="url(#Clip3396)" />
+    <path d="M 28 18  L 28 10  L 20 10  L 20 18  L 28 18  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" class="stroke" mask="url(#Clip3396)" />
+    <path d="M 2 22  L 6 22  L 6 26  L 2 26  L 2 22  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" class="stroke" mask="url(#Clip3396)" />
+    <path d="M 8 28  L 8 20  L 0 20  L 0 28  L 8 28  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" class="stroke" mask="url(#Clip3396)" />
+    <path d="M 12 22  L 16 22  L 16 26  L 12 26  L 12 22  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" class="stroke" mask="url(#Clip3396)" />
+    <path d="M 18 28  L 18 20  L 10 20  L 10 28  L 18 28  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" class="stroke" mask="url(#Clip3396)" />
+    <path d="M 22 22  L 26 22  L 26 26  L 22 26  L 22 22  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" class="stroke" mask="url(#Clip3396)" />
+    <path d="M 28 28  L 28 20  L 20 20  L 20 28  L 28 28  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" class="stroke" mask="url(#Clip3396)" />
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="42px" height="31px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
+    <mask fill="white" id="Clip2999">
+      <path d="M 23.125 7.125  L 23.125 1  L 41.75 1  L 41.75 7.125  L 23.125 7.125  Z M 4 30.625  L 4 11.375  L 19 11.375  L 19 30.625  L 4 30.625  Z M 0.25 7.125  L 0.25 1  L 18.875 1  L 18.875 7.125  L 0.25 7.125  Z M 23 30.625  L 23 11.375  L 38 11.375  L 38 30.625  L 23 30.625  Z " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g transform="matrix(1 0 0 1 -4 -17 )">
+    <path d="M 23.125 7.125  L 23.125 1  L 41.75 1  L 41.75 7.125  L 23.125 7.125  Z M 4 30.625  L 4 11.375  L 19 11.375  L 19 30.625  L 4 30.625  Z M 0.25 7.125  L 0.25 1  L 18.875 1  L 18.875 7.125  L 0.25 7.125  Z M 23 30.625  L 23 11.375  L 38 11.375  L 38 30.625  L 23 30.625  Z " fill-rule="nonzero" fill="rgba(217, 217, 217, 1)" stroke="none" transform="matrix(1 0 0 1 4 17 )" class="fill" />
+    <path d="M 23.125 7.125  L 23.125 1  L 41.75 1  L 41.75 7.125  L 23.125 7.125  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" transform="matrix(1 0 0 1 4 17 )" class="stroke" mask="url(#Clip2999)" />
+    <path d="M 4 30.625  L 4 11.375  L 19 11.375  L 19 30.625  L 4 30.625  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" transform="matrix(1 0 0 1 4 17 )" class="stroke" mask="url(#Clip2999)" />
+    <path d="M 0.25 7.125  L 0.25 1  L 18.875 1  L 18.875 7.125  L 0.25 7.125  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" transform="matrix(1 0 0 1 4 17 )" class="stroke" mask="url(#Clip2999)" />
+    <path d="M 23 30.625  L 23 11.375  L 38 11.375  L 38 30.625  L 23 30.625  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" transform="matrix(1 0 0 1 4 17 )" class="stroke" mask="url(#Clip2999)" />
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="28px" height="28px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
+    <mask fill="white" id="Clip4339">
+      <path d="M 28 0  L 0 28  L 28 28  L 28 0  Z M 26 16  L 26 26  L 19 25.999999999999996  C 17.34314575050762 25.999999999999996  16 24.656854249492376  16 23  L 16 21  C 16 19.343145750507617  17.34314575050762 18  19 18  L 24 18  L 24 16  C 24 15.447715250169209  23.552284749830793 15  23 15  L 17 15  L 17 13  L 22.999999999999996 13  C 24.656854249492376 13  25.999999999999996 14.34314575050762  26 16  Z " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g transform="matrix(1 0 0 1 -2 -2 )">
+    <path d="M 28 0  L 0 28  L 28 28  L 28 0  Z M 26 16  L 26 26  L 19 25.999999999999996  C 17.34314575050762 25.999999999999996  16 24.656854249492376  16 23  L 16 21  C 16 19.343145750507617  17.34314575050762 18  19 18  L 24 18  L 24 16  C 24 15.447715250169209  23.552284749830793 15  23 15  L 17 15  L 17 13  L 22.999999999999996 13  C 24.656854249492376 13  25.999999999999996 14.34314575050762  26 16  Z " fill-rule="nonzero" fill="rgba(0, 0, 0, 1)" stroke="none" transform="matrix(1 0 0 1 2 2 )" class="fill" />
+    <path d="M 28 0  L 0 28  L 28 28  L 28 0  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" transform="matrix(1 0 0 1 2 2 )" class="stroke" mask="url(#Clip4339)" />
+    <path d="M 26 16  L 26 26  L 19 25.999999999999996  C 17.34314575050762 25.999999999999996  16 24.656854249492376  16 23  L 16 21  C 16 19.343145750507617  17.34314575050762 18  19 18  L 24 18  L 24 16  C 24 15.447715250169209  23.552284749830793 15  23 15  L 17 15  L 17 13  L 22.999999999999996 13  C 24.656854249492376 13  25.999999999999996 14.34314575050762  26 16  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" transform="matrix(1 0 0 1 2 2 )" class="stroke" mask="url(#Clip4339)" />
+  </g>
+</svg>

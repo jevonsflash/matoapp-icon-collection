@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="50px" height="44px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
+    <mask fill="white" id="Clip2625">
+      <path d="M 50 38.5  C 50 38.225  49.775 38  49.5 38  L 0.5 38  C 0.22499999999999964 38  0 38.225  0 38.5  L 0 43.5  C 0 43.775  0.22499999999999964 44  0.5 44  L 49.5 44  C 49.775 44  50 43.775  50 43.5  L 50 38.5  Z M 50 2  C 49.99999999999999 0.8937500000000006  49.068749999999994 0  47.91875 0  L 2.0812500000000007 0  C 0.9312500000000004 0  0 0.8937500000000006  0 2  L 0 31  C 0 32.10625  0.9312500000000011 33  2.0812500000000007 33  L 47.912499999999994 33  C 49.06249999999999 33  49.99374999999999 32.10625  50 31  L 50 2  Z M 16 19  L 16 28  L 4.5 28  L 4.5 19  L 16 19  Z M 16 5  L 16 15  L 5 15  L 5 5  L 16 5  Z M 30 19  L 30 28  L 19.5 28  L 19.5 19  L 30 19  Z M 30 5  L 30 15  L 20 15  L 20 5  L 30 5  Z M 45 19  L 45 28  L 34.5 28  L 34.5 19  L 45 19  Z M 45 5  L 45 15  L 34 15  L 34 5  L 45 5  Z " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g>
+    <path d="M 50 38.5  C 50 38.225  49.775 38  49.5 38  L 0.5 38  C 0.22499999999999964 38  0 38.225  0 38.5  L 0 43.5  C 0 43.775  0.22499999999999964 44  0.5 44  L 49.5 44  C 49.775 44  50 43.775  50 43.5  L 50 38.5  Z M 50 2  C 49.99999999999999 0.8937500000000006  49.068749999999994 0  47.91875 0  L 2.0812500000000007 0  C 0.9312500000000004 0  0 0.8937500000000006  0 2  L 0 31  C 0 32.10625  0.9312500000000011 33  2.0812500000000007 33  L 47.912499999999994 33  C 49.06249999999999 33  49.99374999999999 32.10625  50 31  L 50 2  Z M 16 19  L 16 28  L 4.5 28  L 4.5 19  L 16 19  Z M 16 5  L 16 15  L 5 15  L 5 5  L 16 5  Z M 30 19  L 30 28  L 19.5 28  L 19.5 19  L 30 19  Z M 30 5  L 30 15  L 20 15  L 20 5  L 30 5  Z M 45 19  L 45 28  L 34.5 28  L 34.5 19  L 45 19  Z M 45 5  L 45 15  L 34 15  L 34 5  L 45 5  Z " fill-rule="nonzero" fill="rgba(0, 0, 0, 1)" stroke="none" class="fill" />
+    <path d="M 50 38.5  C 50 38.225  49.775 38  49.5 38  L 0.5 38  C 0.22499999999999964 38  0 38.225  0 38.5  L 0 43.5  C 0 43.775  0.22499999999999964 44  0.5 44  L 49.5 44  C 49.775 44  50 43.775  50 43.5  L 50 38.5  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" class="stroke" mask="url(#Clip2625)" />
+    <path d="M 50 2  C 49.99999999999999 0.8937500000000006  49.068749999999994 0  47.91875 0  L 2.0812500000000007 0  C 0.9312500000000004 0  0 0.8937500000000006  0 2  L 0 31  C 0 32.10625  0.9312500000000011 33  2.0812500000000007 33  L 47.912499999999994 33  C 49.06249999999999 33  49.99374999999999 32.10625  50 31  L 50 2  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" class="stroke" mask="url(#Clip2625)" />
+    <path d="M 16 19  L 16 28  L 4.5 28  L 4.5 19  L 16 19  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" class="stroke" mask="url(#Clip2625)" />
+    <path d="M 16 5  L 16 15  L 5 15  L 5 5  L 16 5  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" class="stroke" mask="url(#Clip2625)" />
+    <path d="M 30 19  L 30 28  L 19.5 28  L 19.5 19  L 30 19  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" class="stroke" mask="url(#Clip2625)" />
+    <path d="M 30 5  L 30 15  L 20 15  L 20 5  L 30 5  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" class="stroke" mask="url(#Clip2625)" />
+    <path d="M 45 19  L 45 28  L 34.5 28  L 34.5 19  L 45 19  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" class="stroke" mask="url(#Clip2625)" />
+    <path d="M 45 5  L 45 15  L 34 15  L 34 5  L 45 5  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" class="stroke" mask="url(#Clip2625)" />
+  </g>
+</svg>

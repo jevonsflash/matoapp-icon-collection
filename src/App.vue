@@ -8,9 +8,15 @@ import { RouterLink, RouterView } from 'vue-router'
 
     <div class="wrapper">
       <nav>
-        <RouterLink to="/">Home</RouterLink>
-        <RouterLink to="/?type=win10">Axure Windows 10 Icon Library</RouterLink>
-        <RouterLink to="/?type=md">Material Design Icon Library</RouterLink>
+        <router-link to="/">Home</router-link>
+        <router-link to="/?type=win10">Axure Windows 10 Icon Library</router-link>
+        <router-link to="/?type=md">Material Design Icon Library</router-link>
+        <router-link to="/?type=slack">Slack Axure Icon Library </router-link>
+        <router-link to="/?type=fa5">Font Awesome 5.12 Axure Widget Library </router-link>
+        <router-link to="/?type=ad">Ant Design System Icon Library </router-link>
+        <router-link to="/?type=ibm">IBM Carbon Design System Axure Icon Library </router-link>
+        <router-link to="/?type=brand">Brand Icons v3 </router-link>
+        <router-link to="/?type=bs">Bootstrap Icon Library (v1.8.0) </router-link>
       </nav>
     </div>
   </header>

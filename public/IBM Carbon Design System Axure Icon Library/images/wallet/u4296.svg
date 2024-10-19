@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="28px" height="25px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
+    <mask fill="white" id="Clip4482">
+      <path d="M 28 7.000000000000001  C 28 5.8954305003384135  27.104569499661586 5  26 5  L 2 5  L 2 2  L 24 2  L 24 0  L 2 0  C 0.895430500338413 0  0 0.8954305003384131  0 2  L 0 23  C 0 24.104569499661586  0.895430500338413 25  2 25  L 26 25  C 27.104569499661586 25  28 24.104569499661586  28 23  L 28 7.000000000000001  Z M 26 23  L 2 23  L 2 7  L 26 7  L 26 10  L 18 10  C 16.895430500338414 10  16 10.895430500338414  16 12  L 16 18  C 16 19.104569499661586  16.895430500338414 20  18 20  L 26 20  L 26 23  Z M 18 12  L 26 12  L 26 18  L 18 18  L 18 12  Z " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g transform="matrix(1 0 0 1 -2 -3 )">
+    <path d="M 28 7.000000000000001  C 28 5.8954305003384135  27.104569499661586 5  26 5  L 2 5  L 2 2  L 24 2  L 24 0  L 2 0  C 0.895430500338413 0  0 0.8954305003384131  0 2  L 0 23  C 0 24.104569499661586  0.895430500338413 25  2 25  L 26 25  C 27.104569499661586 25  28 24.104569499661586  28 23  L 28 7.000000000000001  Z M 26 23  L 2 23  L 2 7  L 26 7  L 26 10  L 18 10  C 16.895430500338414 10  16 10.895430500338414  16 12  L 16 18  C 16 19.104569499661586  16.895430500338414 20  18 20  L 26 20  L 26 23  Z M 18 12  L 26 12  L 26 18  L 18 18  L 18 12  Z " fill-rule="nonzero" fill="rgba(0, 0, 0, 1)" stroke="none" transform="matrix(1 0 0 1 2 3 )" class="fill" />
+    <path d="M 28 7.000000000000001  C 28 5.8954305003384135  27.104569499661586 5  26 5  L 2 5  L 2 2  L 24 2  L 24 0  L 2 0  C 0.895430500338413 0  0 0.8954305003384131  0 2  L 0 23  C 0 24.104569499661586  0.895430500338413 25  2 25  L 26 25  C 27.104569499661586 25  28 24.104569499661586  28 23  L 28 7.000000000000001  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" transform="matrix(1 0 0 1 2 3 )" class="stroke" mask="url(#Clip4482)" />
+    <path d="M 26 23  L 2 23  L 2 7  L 26 7  L 26 10  L 18 10  C 16.895430500338414 10  16 10.895430500338414  16 12  L 16 18  C 16 19.104569499661586  16.895430500338414 20  18 20  L 26 20  L 26 23  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" transform="matrix(1 0 0 1 2 3 )" class="stroke" mask="url(#Clip4482)" />
+    <path d="M 18 12  L 26 12  L 26 18  L 18 18  L 18 12  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" transform="matrix(1 0 0 1 2 3 )" class="stroke" mask="url(#Clip4482)" />
+  </g>
+</svg>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="51px" height="42px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
+    <mask fill="white" id="Clip2448">
+      <path d="M 0.3125 16  L 0.3125 12  L 14.750000000000002 12  L 14.750000000000002 16  L 0.3125 16  Z M 35.25 16  L 35.25 12  L 50.3125 12  L 50.3125 16  L 35.25 16  Z M 18.75 16  L 18.75 12  L 31.250000000000004 12  L 31.250000000000004 16  L 18.75 16  Z M 18.75 30  L 18.75 26  L 31.250000000000004 26  L 31.250000000000004 30  L 18.75 30  Z M 35.25 30  L 35.25 26  L 50.3125 26  L 50.3125 30  L 35.25 30  Z M 0.3125 30  L 0.3125 26  L 14.750000000000002 26  L 14.750000000000002 30  L 0.3125 30  Z M 19 26  L 19 16  L 18.75 0.1875  L 15 0.1875  L 15 41.8125  L 18.75 41.8125  L 19 26  Z M 35 16  L 35 12  L 35 0.1875  L 31 0.1875  L 31 41.8125  L 35 41.8125  L 35 16  Z " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g>
+    <path d="M 0.3125 16  L 0.3125 12  L 14.750000000000002 12  L 14.750000000000002 16  L 0.3125 16  Z M 35.25 16  L 35.25 12  L 50.3125 12  L 50.3125 16  L 35.25 16  Z M 18.75 16  L 18.75 12  L 31.250000000000004 12  L 31.250000000000004 16  L 18.75 16  Z M 18.75 30  L 18.75 26  L 31.250000000000004 26  L 31.250000000000004 30  L 18.75 30  Z M 35.25 30  L 35.25 26  L 50.3125 26  L 50.3125 30  L 35.25 30  Z M 0.3125 30  L 0.3125 26  L 14.750000000000002 26  L 14.750000000000002 30  L 0.3125 30  Z M 19 26  L 19 16  L 18.75 0.1875  L 15 0.1875  L 15 41.8125  L 18.75 41.8125  L 19 26  Z M 35 16  L 35 12  L 35 0.1875  L 31 0.1875  L 31 41.8125  L 35 41.8125  L 35 16  Z " fill-rule="nonzero" fill="rgba(0, 0, 0, 1)" stroke="none" class="fill" />
+    <path d="M 0.3125 16  L 0.3125 12  L 14.750000000000002 12  L 14.750000000000002 16  L 0.3125 16  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" class="stroke" mask="url(#Clip2448)" />
+    <path d="M 35.25 16  L 35.25 12  L 50.3125 12  L 50.3125 16  L 35.25 16  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" class="stroke" mask="url(#Clip2448)" />
+    <path d="M 18.75 16  L 18.75 12  L 31.250000000000004 12  L 31.250000000000004 16  L 18.75 16  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" class="stroke" mask="url(#Clip2448)" />
+    <path d="M 18.75 30  L 18.75 26  L 31.250000000000004 26  L 31.250000000000004 30  L 18.75 30  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" class="stroke" mask="url(#Clip2448)" />
+    <path d="M 35.25 30  L 35.25 26  L 50.3125 26  L 50.3125 30  L 35.25 30  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" class="stroke" mask="url(#Clip2448)" />
+    <path d="M 0.3125 30  L 0.3125 26  L 14.750000000000002 26  L 14.750000000000002 30  L 0.3125 30  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" class="stroke" mask="url(#Clip2448)" />
+    <path d="M 19 26  L 19 16  L 18.75 0.1875  L 15 0.1875  L 15 41.8125  L 18.75 41.8125  L 19 26  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" class="stroke" mask="url(#Clip2448)" />
+    <path d="M 35 16  L 35 12  L 35 0.1875  L 31 0.1875  L 31 41.8125  L 35 41.8125  L 35 16  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" class="stroke" mask="url(#Clip2448)" />
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
+    <mask fill="white" id="Clip6568">
+      <path d="M 9.8325 11.5305  L 9.8325 2.0625  L 0 3.3555  L 0 11.5305  L 9.8325 11.5305  Z M 0 12.4695  L 0 20.6925  L 9.8325 22.092  L 9.8325 12.4695  L 0 12.4695  Z M 24 12.5925  L 10.917 12.5925  L 10.956 22.1595  L 24 24  L 24 12.5925  Z M 24 11.486999999999998  L 24 0  L 10.995000000000001 1.866  L 10.995000000000001 11.486999999999998  L 24 11.486999999999998  Z " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g>
+    <path d="M 9.8325 11.5305  L 9.8325 2.0625  L 0 3.3555  L 0 11.5305  L 9.8325 11.5305  Z M 0 12.4695  L 0 20.6925  L 9.8325 22.092  L 9.8325 12.4695  L 0 12.4695  Z M 24 12.5925  L 10.917 12.5925  L 10.956 22.1595  L 24 24  L 24 12.5925  Z M 24 11.486999999999998  L 24 0  L 10.995000000000001 1.866  L 10.995000000000001 11.486999999999998  L 24 11.486999999999998  Z " fill-rule="nonzero" fill="rgba(0, 0, 0, 1)" stroke="none" class="fill" />
+    <path d="M 9.8325 11.5305  L 9.8325 2.0625  L 0 3.3555  L 0 11.5305  L 9.8325 11.5305  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" class="stroke" mask="url(#Clip6568)" />
+    <path d="M 0 12.4695  L 0 20.6925  L 9.8325 22.092  L 9.8325 12.4695  L 0 12.4695  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" class="stroke" mask="url(#Clip6568)" />
+    <path d="M 24 12.5925  L 10.917 12.5925  L 10.956 22.1595  L 24 24  L 24 12.5925  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" class="stroke" mask="url(#Clip6568)" />
+    <path d="M 24 11.486999999999998  L 24 0  L 10.995000000000001 1.866  L 10.995000000000001 11.486999999999998  L 24 11.486999999999998  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" class="stroke" mask="url(#Clip6568)" />
+  </g>
+</svg>

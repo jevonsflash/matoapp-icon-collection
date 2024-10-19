@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="5px" height="20px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
+    <mask fill="white" id="Clip4328">
+      <path d="M 5 18  C 4.998512673471641 19.103952841932216  4.1039528419322195 19.998512673471637  3 20  L 0 20  L 0 18  L 3 18  L 3 2  L 0 2  L 0 0  L 3 0  C 4.104044072055093 0.0012674655592954664  4.998732534440702 0.8959559279449083  5 2  L 5 18  Z " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g transform="matrix(1 0 0 1 -25 -6 )">
+    <path d="M 5 18  C 4.998512673471641 19.103952841932216  4.1039528419322195 19.998512673471637  3 20  L 0 20  L 0 18  L 3 18  L 3 2  L 0 2  L 0 0  L 3 0  C 4.104044072055093 0.0012674655592954664  4.998732534440702 0.8959559279449083  5 2  L 5 18  Z " fill-rule="nonzero" fill="rgba(0, 0, 0, 1)" stroke="none" transform="matrix(1 0 0 1 25 6 )" class="fill" />
+    <path d="M 5 18  C 4.998512673471641 19.103952841932216  4.1039528419322195 19.998512673471637  3 20  L 0 20  L 0 18  L 3 18  L 3 2  L 0 2  L 0 0  L 3 0  C 4.104044072055093 0.0012674655592954664  4.998732534440702 0.8959559279449083  5 2  L 5 18  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" transform="matrix(1 0 0 1 25 6 )" class="stroke" mask="url(#Clip4328)" />
+  </g>
+</svg>

@@ -1,6 +1,4 @@
 <script setup lang="ts">
-import Windows10 from '@/components/Axure Windows 10 Icon Library/index.html'
-import Material from '@/components/Material Design Icon Library/index.html'
 import { useRouter, onBeforeRouteUpdate } from "vue-router";
 import { ref, onMounted } from "vue";
 const type = ref<string | undefined>("");
@@ -27,10 +25,28 @@ onBeforeRouteUpdate((to) => {
 
 function initData() {
   if (type.value === "md") {
-    currentPath.value = Material;
+    currentPath.value = "Material Design Icon Library";
   }
   else if (type.value === "win10") {
-    currentPath.value = Windows10;
+    currentPath.value = "Axure Windows 10 Icon Library";
+  }
+  else if (type.value === "slack") {
+    currentPath.value = "Slack Axure Icon Library";
+  }
+  else if (type.value === "fa5") {
+    currentPath.value = "Font Awesome 5.12 Axure Widget Library";
+  }
+  else if (type.value === "ad") {
+    currentPath.value = "Ant Design System Icon Library";
+  }
+  else if (type.value === "ibm") {
+    currentPath.value = "IBM Carbon Design System Axure Icon Library";
+  }
+  else if (type.value === "brand") {
+    currentPath.value = "Brand Icons v3";
+  }
+  else if (type.value === "bs") {
+    currentPath.value = "Bootstrap Icon Library (v1.8.0)";
   }
 }
 
@@ -45,10 +61,17 @@ function initData() {
       <ul>
         <li><router-link to="/?type=win10">Axure Windows 10 Icon Library </router-link></li>
         <li><router-link to="/?type=md">Material Design Icon Library </router-link></li>
+        <li><router-link to="/?type=slack">Slack Axure Icon Library </router-link></li>
+        <li><router-link to="/?type=fa5">Font Awesome 5.12 Axure Widget Library </router-link></li>
+        <li><router-link to="/?type=ad">Ant Design System Icon Library </router-link></li>
+        <li><router-link to="/?type=ibm">IBM Carbon Design System Axure Icon Library </router-link></li>
+        <li><router-link to="/?type=brand">Brand Icons v3 </router-link></li>
+        <li><router-link to="/?type=bs">Bootstrap Icon Library (v1.8.0) </router-link> </li>
       </ul>
     </template>
     <template v-else>
-      <iframe :src="currentPath" frameborder="0"></iframe>
+      <h4>{{ currentPath }}</h4>
+      <iframe :src="currentPath+'/index.html'" frameborder="0"></iframe>
 
     </template>
   </main>

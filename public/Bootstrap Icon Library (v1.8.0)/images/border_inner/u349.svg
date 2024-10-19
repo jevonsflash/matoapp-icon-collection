@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="10px" height="2px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
+    <mask fill="white" id="Clip4874">
+      <path d="M 1.4535 0.75  L 1.4535 0  L 0 0  L 0 1.4535  L 0.75 1.4535  L 0.75 1.5  L 1.4535 1.5  L 1.4535 1.4535  L 1.5 1.4535  L 1.5 0.75  L 1.4535 0.75  Z M 2.8590000000000004 0  L 2.859 1.5  L 4.266 1.5  L 4.266 0  L 2.8590000000000004 0  Z M 5.67 1.5  L 5.6715 1.5  L 7.0785 1.5  L 7.0785 0  L 5.67 0  L 5.67 1.5  Z M 8.484000000000002 0  L 8.484000000000002 1.5  L 9.891 1.5  L 9.891 0  L 8.484000000000002 0  Z " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g>
+    <path d="M 1.4535 0.75  L 1.4535 0  L 0 0  L 0 1.4535  L 0.75 1.4535  L 0.75 1.5  L 1.4535 1.5  L 1.4535 1.4535  L 1.5 1.4535  L 1.5 0.75  L 1.4535 0.75  Z M 2.8590000000000004 0  L 2.859 1.5  L 4.266 1.5  L 4.266 0  L 2.8590000000000004 0  Z M 5.67 1.5  L 5.6715 1.5  L 7.0785 1.5  L 7.0785 0  L 5.67 0  L 5.67 1.5  Z M 8.484000000000002 0  L 8.484000000000002 1.5  L 9.891 1.5  L 9.891 0  L 8.484000000000002 0  Z " fill-rule="nonzero" fill="rgba(0, 0, 0, 1)" stroke="none" class="fill" />
+    <path d="M 1.4535 0.75  L 1.4535 0  L 0 0  L 0 1.4535  L 0.75 1.4535  L 0.75 1.5  L 1.4535 1.5  L 1.4535 1.4535  L 1.5 1.4535  L 1.5 0.75  L 1.4535 0.75  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" class="stroke" mask="url(#Clip4874)" />
+    <path d="M 2.8590000000000004 0  L 2.859 1.5  L 4.266 1.5  L 4.266 0  L 2.8590000000000004 0  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" class="stroke" mask="url(#Clip4874)" />
+    <path d="M 5.67 1.5  L 5.6715 1.5  L 7.0785 1.5  L 7.0785 0  L 5.67 0  L 5.67 1.5  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" class="stroke" mask="url(#Clip4874)" />
+    <path d="M 8.484000000000002 0  L 8.484000000000002 1.5  L 9.891 1.5  L 9.891 0  L 8.484000000000002 0  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" class="stroke" mask="url(#Clip4874)" />
+  </g>
+</svg>

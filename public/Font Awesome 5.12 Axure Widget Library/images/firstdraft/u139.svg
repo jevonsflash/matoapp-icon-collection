@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="38px" height="50px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
+    <mask fill="white" id="Clip769">
+      <path d="M 37.5 16.25  L 37.5 18.75  L 31 18.75  L 31 31  L 19 31  L 19 43  L 0 43  L 0 41  L 17 41  L 17 28  L 28 28  L 28 16.25  L 37.5 16.25  Z M 37 22.5  L 35 22.5  L 35 35  L 22 35  L 22 47  L 6.25 47  L 6.25 50  L 25 50  L 25 37  L 37 37  L 37 22.5  Z M 37.5 43.75  L 37.5 41.25  L 28.75 41.25  L 28.75 50  L 31.249999999999996 50  L 31.249999999999996 43.75  L 37.5 43.75  Z M 37 0  L 0 0  L 0 37  L 13 37  L 13 25  L 25 25  L 25 13  L 37 13  L 37 0  Z " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g>
+    <path d="M 37.5 16.25  L 37.5 18.75  L 31 18.75  L 31 31  L 19 31  L 19 43  L 0 43  L 0 41  L 17 41  L 17 28  L 28 28  L 28 16.25  L 37.5 16.25  Z M 37 22.5  L 35 22.5  L 35 35  L 22 35  L 22 47  L 6.25 47  L 6.25 50  L 25 50  L 25 37  L 37 37  L 37 22.5  Z M 37.5 43.75  L 37.5 41.25  L 28.75 41.25  L 28.75 50  L 31.249999999999996 50  L 31.249999999999996 43.75  L 37.5 43.75  Z M 37 0  L 0 0  L 0 37  L 13 37  L 13 25  L 25 25  L 25 13  L 37 13  L 37 0  Z " fill-rule="nonzero" fill="rgba(0, 0, 0, 1)" stroke="none" class="fill" />
+    <path d="M 37.5 16.25  L 37.5 18.75  L 31 18.75  L 31 31  L 19 31  L 19 43  L 0 43  L 0 41  L 17 41  L 17 28  L 28 28  L 28 16.25  L 37.5 16.25  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" class="stroke" mask="url(#Clip769)" />
+    <path d="M 37 22.5  L 35 22.5  L 35 35  L 22 35  L 22 47  L 6.25 47  L 6.25 50  L 25 50  L 25 37  L 37 37  L 37 22.5  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" class="stroke" mask="url(#Clip769)" />
+    <path d="M 37.5 43.75  L 37.5 41.25  L 28.75 41.25  L 28.75 50  L 31.249999999999996 50  L 31.249999999999996 43.75  L 37.5 43.75  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" class="stroke" mask="url(#Clip769)" />
+    <path d="M 37 0  L 0 0  L 0 37  L 13 37  L 13 25  L 25 25  L 25 13  L 37 13  L 37 0  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" class="stroke" mask="url(#Clip769)" />
+  </g>
+</svg>

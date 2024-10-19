@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="56px" height="38px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
+    <mask fill="white" id="Clip2854">
+      <path d="M 55 2.125  C 55.25 1.0187500000000007  54.35625 0.125  53.25 0.125  L 19.5 0.125  C 18.39375 0.125  17.5 1.0187500000000007  18 2.125  L 18 17  L 2.75 17  C 1.6437499999999998 16.875  0.75 17.76875  1 18.875  L 1 35.875  C 0.75 36.98125  1.6437499999999998 37.875  2.75 37.875  L 36.5 37.875  C 37.60625 37.875  38.5 36.98125  38 35.875  L 38 21  L 53.25 21  C 54.35625 21.125  55.25 20.231250000000003  55 19.125  L 55 2.125  Z M 18 21  L 18 33  L 5 33  L 5 21  L 18 21  Z M 34 21  L 34 33  L 22 33  L 22 21  L 34 21  Z M 34 5  L 34 17  L 22 17  L 22 5  L 34 5  Z M 51 5  L 51 17  L 38 17  L 38 5  L 51 5  Z " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g>
+    <path d="M 55 2.125  C 55.25 1.0187500000000007  54.35625 0.125  53.25 0.125  L 19.5 0.125  C 18.39375 0.125  17.5 1.0187500000000007  18 2.125  L 18 17  L 2.75 17  C 1.6437499999999998 16.875  0.75 17.76875  1 18.875  L 1 35.875  C 0.75 36.98125  1.6437499999999998 37.875  2.75 37.875  L 36.5 37.875  C 37.60625 37.875  38.5 36.98125  38 35.875  L 38 21  L 53.25 21  C 54.35625 21.125  55.25 20.231250000000003  55 19.125  L 55 2.125  Z M 18 21  L 18 33  L 5 33  L 5 21  L 18 21  Z M 34 21  L 34 33  L 22 33  L 22 21  L 34 21  Z M 34 5  L 34 17  L 22 17  L 22 5  L 34 5  Z M 51 5  L 51 17  L 38 17  L 38 5  L 51 5  Z " fill-rule="nonzero" fill="rgba(0, 0, 0, 1)" stroke="none" class="fill" />
+    <path d="M 55 2.125  C 55.25 1.0187500000000007  54.35625 0.125  53.25 0.125  L 19.5 0.125  C 18.39375 0.125  17.5 1.0187500000000007  18 2.125  L 18 17  L 2.75 17  C 1.6437499999999998 16.875  0.75 17.76875  1 18.875  L 1 35.875  C 0.75 36.98125  1.6437499999999998 37.875  2.75 37.875  L 36.5 37.875  C 37.60625 37.875  38.5 36.98125  38 35.875  L 38 21  L 53.25 21  C 54.35625 21.125  55.25 20.231250000000003  55 19.125  L 55 2.125  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" class="stroke" mask="url(#Clip2854)" />
+    <path d="M 18 21  L 18 33  L 5 33  L 5 21  L 18 21  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" class="stroke" mask="url(#Clip2854)" />
+    <path d="M 34 21  L 34 33  L 22 33  L 22 21  L 34 21  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" class="stroke" mask="url(#Clip2854)" />
+    <path d="M 34 5  L 34 17  L 22 17  L 22 5  L 34 5  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" class="stroke" mask="url(#Clip2854)" />
+    <path d="M 51 5  L 51 17  L 38 17  L 38 5  L 51 5  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" class="stroke" mask="url(#Clip2854)" />
+  </g>
+</svg>

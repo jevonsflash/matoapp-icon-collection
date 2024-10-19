@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="38px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
+    <mask fill="white" id="Clip7596">
+      <path d="M 23 10.424  L 23 37  L 0 37  L 23 10.424  Z M 36.916 26.104  C 43.041999999999994 26.104  48 31.067999999999998  48 37  L 25.83 37  C 25.83 31.064  30.787999999999997 26.104  36.916 26.104  Z M 48 1  L 25 27.581999999999994  L 25 1  L 48 1  Z M 22.17 1  L 22.169999999999998 0.8099999999999952  C 22.169999999999998 6.931999999999995  17.208 11.897999999999994  11.083999999999998 11.897999999999994  C 4.964 11.898  0 6.936  0 1  L 22.17 1  Z " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g>
+    <path d="M 23 10.424  L 23 37  L 0 37  L 23 10.424  Z M 36.916 26.104  C 43.041999999999994 26.104  48 31.067999999999998  48 37  L 25.83 37  C 25.83 31.064  30.787999999999997 26.104  36.916 26.104  Z M 48 1  L 25 27.581999999999994  L 25 1  L 48 1  Z M 22.17 1  L 22.169999999999998 0.8099999999999952  C 22.169999999999998 6.931999999999995  17.208 11.897999999999994  11.083999999999998 11.897999999999994  C 4.964 11.898  0 6.936  0 1  L 22.17 1  Z " fill-rule="nonzero" fill="rgba(3, 54, 61, 1)" stroke="none" class="fill" />
+    <path d="M 23 10.424  L 23 37  L 0 37  L 23 10.424  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" class="stroke" mask="url(#Clip7596)" />
+    <path d="M 36.916 26.104  C 43.041999999999994 26.104  48 31.067999999999998  48 37  L 25.83 37  C 25.83 31.064  30.787999999999997 26.104  36.916 26.104  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" class="stroke" mask="url(#Clip7596)" />
+    <path d="M 48 1  L 25 27.581999999999994  L 25 1  L 48 1  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" class="stroke" mask="url(#Clip7596)" />
+    <path d="M 22.17 1  L 22.169999999999998 0.8099999999999952  C 22.169999999999998 6.931999999999995  17.208 11.897999999999994  11.083999999999998 11.897999999999994  C 4.964 11.898  0 6.936  0 1  L 22.17 1  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" class="stroke" mask="url(#Clip7596)" />
+  </g>
+</svg>

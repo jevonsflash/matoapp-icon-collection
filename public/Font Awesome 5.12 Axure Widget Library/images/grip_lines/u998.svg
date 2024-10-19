@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="64px" height="24px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
+    <mask fill="white" id="Clip1624">
+      <path d="M 64 18  C 64 16.9  63.1 16  62 16  L 2 16  C 0.8999999999999999 16  0 16.9  0 18  L 0 22  C 0 23.1  0.9 24  2 24  L 62 24  C 63.1 24  64 23.1  64 22  L 64 18  Z M 64 2  C 64 0.8999999999999986  63.1 0  62 0  L 2 0  C 0.8999999999999999 0  0 0.8999999999999986  0 2  L 0 6  C 0 7.100000000000001  0.9 8  2 8  L 62 8  C 63.1 8  64 7.100000000000001  64 6  L 64 2  Z " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g>
+    <path d="M 64 18  C 64 16.9  63.1 16  62 16  L 2 16  C 0.8999999999999999 16  0 16.9  0 18  L 0 22  C 0 23.1  0.9 24  2 24  L 62 24  C 63.1 24  64 23.1  64 22  L 64 18  Z M 64 2  C 64 0.8999999999999986  63.1 0  62 0  L 2 0  C 0.8999999999999999 0  0 0.8999999999999986  0 2  L 0 6  C 0 7.100000000000001  0.9 8  2 8  L 62 8  C 63.1 8  64 7.100000000000001  64 6  L 64 2  Z " fill-rule="nonzero" fill="rgba(0, 0, 0, 1)" stroke="none" class="fill" />
+    <path d="M 64 18  C 64 16.9  63.1 16  62 16  L 2 16  C 0.8999999999999999 16  0 16.9  0 18  L 0 22  C 0 23.1  0.9 24  2 24  L 62 24  C 63.1 24  64 23.1  64 22  L 64 18  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" class="stroke" mask="url(#Clip1624)" />
+    <path d="M 64 2  C 64 0.8999999999999986  63.1 0  62 0  L 2 0  C 0.8999999999999999 0  0 0.8999999999999986  0 2  L 0 6  C 0 7.100000000000001  0.9 8  2 8  L 62 8  C 63.1 8  64 7.100000000000001  64 6  L 64 2  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" class="stroke" mask="url(#Clip1624)" />
+  </g>
+</svg>
